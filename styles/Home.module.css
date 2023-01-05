@@ -31,8 +31,9 @@
 }
 
 .title,
-.description {
+.description, .description a {
   text-align: center;
+  color:white;
 }
 
 

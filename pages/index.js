@@ -33,11 +33,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className={styles.title}>
-          Athos Hardfork <a href="https://q.org/">Countdown</a>
-        </h1>
+        <p className={styles.description}>
+          <a href="https://q.org/">Athos Hardfork</a> Countdown
+        </p>
 
-        <h1>
+        <h1 className={styles.title}>
           <Countdown
             date={Date.now() + (target_block - current_block) * 5 * 1000}
           />
