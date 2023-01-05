@@ -5,6 +5,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #07182c;
+  color:white;
 }
 
 .title a {

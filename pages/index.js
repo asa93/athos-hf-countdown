@@ -34,7 +34,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Athos Hardfork<a href="https://q.org/">Countdown</a>
+          Athos Hardfork <a href="https://q.org/">Countdown</a>
         </h1>
 
         <h1>
