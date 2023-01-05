@@ -50,8 +50,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+          Powered by <img src="/q_org.jpg" alt="Q" className={styles.logo} />
         </a>
       </footer>
 
